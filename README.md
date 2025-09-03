@@ -1,6 +1,6 @@
   <div id="header" align="left">
   <h1> Hi, I'm namexdx!</h1>
-  <h3>Developer from 📍Simferopol</h3>
+  <h3>Developer from 📍Stockholm</h3>
 
   <div algin ="left">
     <h3> Languages and tools</h3>
